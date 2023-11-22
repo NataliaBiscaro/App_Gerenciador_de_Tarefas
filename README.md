@@ -1,49 +1,72 @@
-# app_disp_moveis_final
-Para executar o projeto, deve-se ter em mãos um dispositivo móvel Android e abrir o link a seguir: https://drive.google.com/file/d/1kZLT6XXuEhov4cX6fpogbDv7IKR3Vmva/view.
-Ao abrir o link, deve-se seguir os passos que irão aparecer na tela até a instalação completa do aplicativo
-
-Descrição do Projeto: Aplicativo de Gerenciamento de Tarefas
+# Aplicativo para gerenciamento de tarefas
 
 Meu projeto é um aplicativo de gerenciamento de tarefas desenvolvido inteiramente em Dart, aproveitando as capacidades abrangentes e os componentes fornecidos pelo Flutter. Este aplicativo tem como objetivo oferecer aos usuários uma maneira eficaz e intuitiva de organizar suas tarefas diárias.
 
-Recursos Principais:
+# Execução
 
-Criação e Edição de Tarefas:
-Os usuários têm a capacidade de criar novas tarefas, atribuir-lhes uma descrição, e editar essas informações conforme necessário. Isso proporciona flexibilidade para adaptar as tarefas de acordo com as necessidades em constante mudança.
-
-Exclusão de Tarefas:
-A função de exclusão permite que o usuário remova tarefas que não são mais relevantes ou concluídas, mantendo a lista de tarefas organizada e sem excesso de informações.
-
-Prioridades e Datas:
-Os usuários podem atribuir prioridades a suas tarefas, destacando aquelas que são mais urgentes. Além disso, é possível definir datas de vencimento para manter o controle sobre prazos e compromissos importantes.
-
-Visualização Diária:
-O aplicativo oferece uma visão diária das tarefas agendadas, permitindo que os usuários tenham uma compreensão rápida e clara das atividades planejadas para o dia.
-
-Lista Completa de Tarefas:
-Os usuários têm acesso a uma lista completa de todas as tarefas, proporcionando uma visão abrangente de seus compromissos e responsabilidades.
-
-Algumas imagens do app:
-
-Calendario:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/ef46cdcf-a7cc-4d23-8e40-c7ccd5a89e05)
-Adicionar tarefa:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/fb5cd34b-dbdc-4fef-bb5d-ef6362ce8c72)
-Todas as tarefas:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/d9f5d4fd-381c-4424-b0f3-50e8a7d6563e)
-(Ao final podemos observar o verso do cartão, onde é disponibilizada a imagem qeu o usuario fez o upload)
-Imagem expandida:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/9ff2b713-f4a9-4071-a35f-ae8d4db1a791)
-Editar tarefa:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/30295ef7-f3cf-4667-bc90-9a877627a466)
-Aba Calendário:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/a4eeda1f-dd3f-4a24-ab36-55035b9a8f6f)
-Aba Cadastre-se:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/8716aefc-1485-4b8c-ae08-04b77afb1bf6)
-Aba Login:
-![image](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/7a2eff2f-b121-49f6-9aaf-b1adfa786fcb)
+>Para executar o projeto, deve-se ter em mãos um dispositivo móvel Android e abrir o link a seguir: https://drive.google.com/file/d/1kZLT6XXuEhov4cX6fpogbDv7IKR3Vmva/view.
+Ao abrir o link, deve-se seguir os passos que irão aparecer na tela até a instalação completa do aplicativo
 
 
-![WhatsApp Image 2023-11-22 at 00 19 38](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/746a284a-fd8c-4ed6-91c5-6b8e684e084e)
+
+# Recursos Principais:
+
+## Criação e Edição de Tarefas:
+> Os usuários têm a capacidade de criar novas tarefas, atribuir-lhes uma descrição, e editar essas informações conforme necessário. Isso proporciona flexibilidade para adaptar as tarefas de acordo com as necessidades em constante mudança.
+---
+
+## Exclusão de Tarefas:
+> A função de exclusão permite que o usuário remova tarefas que não são mais relevantes ou concluídas, mantendo a lista de tarefas organizada e sem excesso de informações.
+---
+
+## Prioridades e Datas:
+> Os usuários podem atribuir prioridades a suas tarefas, destacando aquelas que são mais urgentes. Além disso, é possível definir datas de vencimento para manter o controle sobre prazos e compromissos importantes.
+---
+
+## Visualização Diária:
+> O aplicativo oferece uma visão diária das tarefas agendadas, permitindo que os usuários tenham uma compreensão rápida e clara das atividades planejadas para o dia.
+---
+
+## Lista Completa de Tarefas:
+> Os usuários têm acesso a uma lista completa de todas as tarefas, proporcionando uma visão abrangente de seus compromissos e responsabilidades.
+---
+
+# Imagens do App:
+
+
+## Adicionar tarefa:
+> ![WhatsApp Image 2023-11-22 at 00 19 38 (1)](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/29b35a4b-f201-4056-813b-af0477a190d4)
+
+---
+
+## Todas as tarefas:
+> ![WhatsApp Image 2023-11-22 at 00 21 12](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/30963f54-7f02-4b3b-8649-d3aa386938b2)
+(Na ultima tarefa podemos observar o verso do cartão, onde é disponibilizada a imagem que o usuario fez o upload)
+---
+
+## Imagem expandida:
+> ![WhatsApp Image 2023-11-22 at 00 21 12 (1)](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/e1c41779-f161-48db-9338-0f10bb2139f4)
+---
+
+## Editar tarefa:
+> ![WhatsApp Image 2023-11-22 at 00 19 38 (3)](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/bfde2f57-7c79-4cdf-8735-ffa90e5b334d)
+---
+
+# Aba Calendário:
+### Antes de adicionar tarefa
+> ![WhatsApp Image 2023-11-22 at 00 19 39 (1)](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/6ad04e53-9b15-4654-b62c-7fcb733e6133)
+> 
+### Depois de adicionar tarefa
+> ![WhatsApp Image 2023-11-22 at 00 19 39 (1)](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/e305fb69-9fb4-44bc-aaa1-680b2e54a4b0)
+---
+
+# Aba Cadastre-se:
+> ![WhatsApp Image 2023-11-22 at 00 19 40](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/e188eb00-38fb-4b8f-879b-512e8827e1dd)
+---
+
+# Aba Login:
+> ![WhatsApp Image 2023-11-22 at 00 19 40 (1)](https://github.com/NataliaBiscaro/app_disp_moveis_final/assets/56592052/b41b1820-8100-4e16-8781-b9809c73bd7c)
+
+
 
 
