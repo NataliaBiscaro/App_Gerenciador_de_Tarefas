@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783216072626",
+    "project_id": "gersonalorganizer-67547",
+    "storage_bucket": "gersonalorganizer-67547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783216072626:android:b5e9d47fcb4fb18ed736ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.dispositivosmoveis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83mo76lC9SL3_8lB2eV46vIS7F1JZRTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4B2TdeI8da530qBKVqtrBX24qqf1XQR4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783216072626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.dispositivosmoveis</string>
+	<key>PROJECT_ID</key>
+	<string>gersonalorganizer-67547</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gersonalorganizer-67547.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783216072626:ios:a7fa0d00aeea56b7d736ab</string>
+</dict>
+</plist>
